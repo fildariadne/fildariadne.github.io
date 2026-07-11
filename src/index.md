@@ -1,5 +1,5 @@
 ---
-title: Basicpage template
+title: Ariadne
 author: Your Name
 shortbio: Short bio
 description-meta: Short bio for meta-data
